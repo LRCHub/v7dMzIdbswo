@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "オトナモード",
+  "base_artist": "りすこ・もな from STAR☆ANIS",
+  "createdAt": "2025-12-17T20:04:56.342701Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オトナモード ～みくるソロ Ver.～",
+      "artist": "もな from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/01_オトナモード_~みくるソロ_Ver.~_もな_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オトナモード",
+      "artist": "りすこ・もな from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/02_オトナモード_りすこ・もな_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オトナモード",
+      "artist": "りすこ・もな from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/03_オトナモード_りすこ・もな_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オトナモード",
+      "artist": "りすこ・もな from STAR☆ANIS",
+      "has_synced": false,
+      "path": "select/pl_01_オトナモード_りすこ・もな_from_STAR☆ANIS.txt"
+    }
+  ]
+}
